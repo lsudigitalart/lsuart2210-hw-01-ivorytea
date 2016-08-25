@@ -18,7 +18,7 @@ function setup()
   //snowball
   ellipse (160, 210, 40, 40);
   //snowman horn
-  fill ('red')
+  fill ('black')
   ellipse (380, 100, 5, 5);
   ellipse (385, 95, 5, 5);
   ellipse (390, 90, 5, 5);
@@ -36,7 +36,6 @@ function setup()
   ellipse (370, 94, 5, 5);
   ellipse (375, 98, 5, 5);
   //arms
-  fill ('black')
   ellipse (250, 300, 10, 10);
   ellipse (245, 300, 10, 10);
   ellipse (240, 300, 10, 10);
